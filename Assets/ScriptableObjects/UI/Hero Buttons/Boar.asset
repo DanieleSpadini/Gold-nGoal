@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7aaba7945100cc4992632efe0df0353, type: 3}
+  m_Name: Boar
+  m_EditorClassIdentifier: 
+  Art: {fileID: 21300000, guid: 8227cb009eea02f458d9e8132cb8c401, type: 3}
+  HeroName: Boar
+  AbilityName: Chaaaarge!!!!
+  AbilityEffect: Dashes forward for a brief amount
+  Speed: Slow
+  Rarity: Epic
+  Level: 1
+  GoldForNextLevel: 500
+  CardsForNextLevel: 2
+  CardsAvailable: 0
+  Hero3DModel: {fileID: 4411351069216113059, guid: df9c98520c02b2c4da175d966be8bec2,
+    type: 3}

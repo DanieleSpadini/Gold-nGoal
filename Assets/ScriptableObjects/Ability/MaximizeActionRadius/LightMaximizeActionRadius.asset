@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce800bae01eb429293d437d4ca24f59, type: 3}
+  m_Name: LightMaximizeActionRadius
+  m_EditorClassIdentifier: 
+  _name: 
+  _isOver: 0
+  _timeElapsed: 0
+  _duration: 2
+  _vfx: {fileID: 9165764729074443167, guid: a6eb8f6cc9970344a9bf88045c013dc7, type: 3}
+  _radiusChange: 2
+  _particleSystem: {fileID: 0}

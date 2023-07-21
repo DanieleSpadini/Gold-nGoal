@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58b417ae8b84e4df9b3c168adce45a5b, type: 3}
+  m_Name: FierceDashThenStun
+  m_EditorClassIdentifier: 
+  _name: 
+  _isOver: 0
+  _timeElapsed: 0
+  _duration: 1
+  _vfx: {fileID: 0}
+  _power: 3
+  _stunAreaRadius: 10
+  _stunDefinition: {fileID: 11400000, guid: 595eb841589be4f9cbde370606f1cf9d, type: 2}
+  _stunVFX: {fileID: 0}
